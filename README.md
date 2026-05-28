@@ -4,7 +4,7 @@ Public Digital Resume for the Team
 
 > A Team of Frontend developers, different parts, one crew.
 
-**Live site:** [www.pixelcrew.dev](https://www.pixelcrew.dev) *(replace with your URL)*
+**Live site:**
 
 ---
 
@@ -15,7 +15,9 @@ We are **Interstack-Pixel.Frontend** — developers who each own different parts
 - **Component Builder** – Reusable UI pieces
 - **State Manager** – Data flow & storage
 - **Style & Layout Lead** – CSS & responsiveness
-- **Integration & Routing Expert** – Navigation & APIs
+- **Integration & Routing Expert** – Navigation
+- **coding and Delivering on Time** -Time Management
+- **Javascript, React, HTML & CSS, typescript, Tailwind, Vue, nuxt,** -FrontEnd SkillSet
 
 ---
 
